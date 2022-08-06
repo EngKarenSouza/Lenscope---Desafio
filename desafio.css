@@ -1,0 +1,28 @@
+#body{
+    background-image: url('./img/background.jpg');
+    background-size: 25%;
+}
+.navbar{
+    background-color: rgb(158, 158, 226);
+}
+.block:not(:last-child) {
+    margin-bottom: 3rem;
+}
+.top-block{
+    margin-top: 3rem;
+}
+.txt-block{
+    padding-bottom: 3rem;
+}
+.mgl{
+    margin-left: 0.5rem;
+}
+.small-ipt{
+    width: 80%;
+}
+.lb-mg{
+    margin: 5rem 0.5rem 0 0;
+}
+.centralize-lt{
+    padding-left: center;
+}
